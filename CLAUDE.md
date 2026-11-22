@@ -1,6 +1,6 @@
 # CLAUDE.md: link list workflow
 
-This repo is a curated link collection. **`linkovi.txt` is the user's raw inbox** of links and is kept in the repo, where the user adds new links over time. **`README.md` is the polished list** made from it.
+This repo is a curated link collection. **`linkovi.txt` is the user's raw inbox** of links. It lives only locally (git-ignored, not tracked), and the user adds new links to it over time. **`README.md` is the polished list** made from it.
 
 ## How to update
 
